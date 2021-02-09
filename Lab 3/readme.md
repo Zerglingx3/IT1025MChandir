@@ -1,6 +1,7 @@
 
 # Executive Summary
-Summarize this assignment and the goal of this lab
+
+In this lab, we explore the key ahrdware in computers, mainly the memory hardware and CPU. We then explore how these hardware work together in a real life example to take inputs, process them, and output. Finally, we learn the relationship between decimal, binary, and hexadecimal number systems and learn how to convert between these numbers.
 
 # Hardware
 ## Hard Drives and Memory
@@ -29,13 +30,29 @@ The arithmetic logic unit (ALU) is a core mechanism in the CPU that performs ari
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
 
+Their desktop milling machine takes in inputs from the keyboard and mouse. The keypresses are then converted to binary and are sent to the CPU. The CPU then accesses memory to store the letter B as pixels in binary. The pixels then get outputed through the computer screen which uses the binary to depict each pixel on the screen. 
+
 # Data Representation
 
 ## Numeric Conversions
-* Explain the difference between decimal, binary and hexadecimal numbers 
+* Explain the difference between decimal, binary and hexadecimal numbers
+
+The main difference is what base each number system uses. Decimal uses base 10, binary uses base 2, and hexadecimal uses base 16.
+
 * Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file)
+
+1101001
+
 * Convert the binary number 101101010 to decimal (show your work)
+
+362
+
 * Convert the decimal number 192 to hexadecimal (show your work)
 
+C0
+
+conversions are attached on black board
+
 # Conclusion
-Reflect on what you have learnt from this week
+
+It was very interesting to learn more in depth about what makes computers function. Computers play such a huge part in our lives nowadays, and we take for granted how amazing it is that these machines are constantly doing thousands and maybe millions of operations in mere seconds.
